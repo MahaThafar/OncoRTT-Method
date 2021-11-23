@@ -14,8 +14,8 @@ TBD
 Maha A. Thafar \
 Ph.D. Candidate and resercher | Computer Science\
 Computer, Electrical and Mathematical Sciences and Engineering (CEMSE) Division\
-Computational Bioscience Research Center (CBRC), King Abdullah university of science and technology\
-Faculty of Computers and Information Technology, Taif University.\
+Computational Bioscience Research Center (CBRC), King Abdullah university of science and technology.\
+Collage of Computers and Information Technology, Taif University (TU).\
 Email: maha.thafar@kaust.edu.sa\
 
 ----
