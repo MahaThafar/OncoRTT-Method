@@ -9,7 +9,7 @@
 TBD
 
 --------------------------------------------------------------------
-For any qutions please contact the first author:
+### For any qutions please contact the first author:
 ---------------------------------------------------------------------
 Maha A. Thafar \
 Ph.D. Candidate and resercher | Computer Science\
