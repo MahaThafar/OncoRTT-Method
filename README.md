@@ -12,10 +12,10 @@ TBD
 For any qutions please contact the first author:
 ---------------------------------------------------------------------
 Maha A. Thafar 
-Ph.D. Candidate | Computer Science
+Ph.D. Candidate and resercher | Computer Science
 Computer, Electrical and Mathematical Sciences and Engineering (CEMSE) Division
-Computational Bioscience Research Center (CBRC)
-Faculty of Computers and Information Technology, Taif University (TU)
+Computational Bioscience Research Center (CBRC), King Abdullah university of science and technology
+Faculty of Computers and Information Technology, Taif University.
 Email: maha.thafar@kaust.edu.sa
 
 ----
