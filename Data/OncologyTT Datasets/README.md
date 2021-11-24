@@ -1,6 +1,6 @@
 # OncologyTT Datasets
-
-### have been created for research purposes to contribute to Oncology research, more specifically "Identifying novel therapeutic targets to treat cancer.
+![alt text](https://github.com/MahaThafar/OncologyTT-Datasets/blob/main/OncologyTT_logo.png)
+##### OncologyTT Datasets have been created for research purposes to contribute to Oncology research, more specifically "Identifying novel therapeutic targets to treat cancer.
 
 ----------------------------------------------------
 ### Description of all folders:
