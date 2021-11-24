@@ -10,7 +10,7 @@ TBD
 
 --------------------------------------------------------------------
 ### For any qutions please contact the first author:
----------------------------------------------------------------------
+
 Maha A. Thafar \
 Ph.D. Candidate and resercher | Computer Science\
 Computer, Electrical and Mathematical Sciences and Engineering (CEMSE) Division\
