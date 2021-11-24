@@ -9,5 +9,5 @@
 5. OMICS: include gene expression and gene mutation features for all genes in each cancer type
 
 ---------------------------------------------------------
-more details please visit:
+More details about OncologyTT Datasets can be found:\
 https://github.com/MahaThafar/OncologyTT-Datasets
