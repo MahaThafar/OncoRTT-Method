@@ -1,6 +1,8 @@
 # OncologyTT Datasets
 
-## This Dataset "OncologyTT" has been created for research purposes to contribute to Oncology research, more specifically "Identifying novel therapeutic targets to treat cancer".
+### have been created for research purposes to contribute to Oncology research, more specifically "Identifying novel therapeutic targets to treat cancer.
+
+----------------------------------------------------
 ### Description of all folders:
 1. Positive targets (Approved target)
 2. Positive genes (Cancer driver genes) 
@@ -11,3 +13,5 @@
 ---------------------------------------------------------
 More details about OncologyTT Datasets can be found:\
 https://github.com/MahaThafar/OncologyTT-Datasets
+
+-------------------------------------------------------
