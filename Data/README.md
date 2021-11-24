@@ -15,7 +15,7 @@ https://github.com/storm-therapeutics/CancerTargetPrediction/tree/master/analyse
 This dataset has been used in tow purposes:\
 * to compare OncoDT with satate-of-the-art method, and\
 * as unseen test data to predict novel threupetic targets.
-## The method's published research:
+## The published research article:
 Bazaga, A., Leggate, D., & Weisser, H. (2020). Genome-wide investigation of gene-cancer associations for the prediction of novel therapeutic targets in oncology. Scientific reports, 10(1), 1-10.
 
 ---------------------------------------------------------------------
