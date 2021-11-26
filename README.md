@@ -3,9 +3,9 @@
 
 ----------------------------------------------
 Submitted: 24 November 2021\
-Accepted\ 
-Published\
-Link: 
+Accepted:\
+Published:\
+Link:
 
 --------------------------------------
 
