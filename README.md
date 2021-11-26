@@ -20,7 +20,7 @@ pip install -r requirements.txt
   **1.Data folder:** 
   that includes 2 datasets: OncologyTT datasets, and the baseline method's datasets
   
-  **2.CODE folder:**
+  **2.Code folder:**
   
      
   **3.EMBED folder:**
