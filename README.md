@@ -41,7 +41,7 @@ pip install -r requirements.txt
   **2.Code folder:**
   > more files and details will be added.....
      
-  **3.EMBED folder:**
+  **3.EMBED folder:**\
   that has several files per cancer type for the generated Amino-acid sequences embeddings using ProTrans BERT embeddings.\
   > We utilized ProtTrans-bert embeddins using bio_embeddings python package.
   > ProtTrans is the state of the art pre-trained models for proteins. ProtTrans was trained on thousands of GPUs from Summit and hundreds of Google TPUs using various Transformers Models (BERT). The resources and more detials can be found: https://github.com/agemagician/ProtTrans\
