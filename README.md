@@ -18,7 +18,13 @@ Late-stage drug development failures are usually a consequence of ineffective ta
 
 ### Prerequisites:
 
-There are several required Python packages to run the code.
+There are several required Python packages to run the code such as:
+- numpy
+- Scikit-learn
+- keras
+- tensorflow
+- bio-embeddings
+- pandas
 These packages can be installed using pip or conda as the follwoing example
 ```
 pip install -r requirements.txt
@@ -32,18 +38,12 @@ pip install -r requirements.txt
   that includes 2 datasets: OncologyTT datasets, and the baseline method's datasets
   
   **2.Code folder:**
-  
+  > more details will be added
      
   **3.EMBED folder:**
   that has several files per cancer type for the generated Amino-acid sequences embeddings using ProTrans BERT embeddings
   
-  **4.Results' Figures:**
-  
-
-
-----------------------------------------------
-
-
+  **4.Results' Figures:** 
 
 
 -----------------------------------------------
