@@ -35,10 +35,11 @@ pip install -r requirements.txt
 #### *There are four folders:*
 
   **1.Data folder:** 
-  > that includes 2 datasets: OncologyTT datasets, and the baseline method's datasets
+  > that includes 2 datasets: OncologyTT datasets, and the baseline method's datasets.\
+  > Description for the datasets are provided in the folder.
   
   **2.Code folder:**
-  > more files and details will be added...
+  > more files and details will be added.....
      
   **3.EMBED folder:**
   > that has several files per cancer type for the generated Amino-acid sequences embeddings using ProTrans BERT embeddings
