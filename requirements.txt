@@ -1,0 +1,7 @@
+gensim
+numpy
+Scikit-learn
+pandas
+bio-embeddings
+keras
+tensorflow
