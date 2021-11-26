@@ -1,5 +1,5 @@
 # OncoDT-Method
-#### OncoDT: Deep learning Method to Predict Oncology-related Therapeutic Targets using BERT Embeddings Integrated with Omics Features
+### OncoDT: Deep learning Method to Predict Oncology-related Therapeutic Targets using BERT Embeddings Integrated with Omics Features
 
 ----------------------------------------------
 Submitted: 24 November 2021\
