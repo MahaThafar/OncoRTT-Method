@@ -12,7 +12,7 @@ Link:
 # Getting Started
 
 ### OncoDT Workflow
-Late-stage drug development failures are usually a consequence of ineffective targets. Thus, proper target identification is needed, which may be possible using computational approaches. In this work, we developed OncoDT, a deep learning (DL)-based method for predicting novel therapeutic targets. OncoDT is designed to reduce suboptimal target selection by identifying novel targets based on features of known effective targets using DL approaches.
+> Late-stage drug development failures are usually a consequence of ineffective targets. Thus, proper target identification is needed, which may be possible using computational approaches. In this work, we developed OncoDT, a deep learning (DL)-based method for predicting novel therapeutic targets. OncoDT is designed to reduce suboptimal target selection by identifying novel targets based on features of known effective targets using DL approaches.
 
 
 
@@ -35,17 +35,18 @@ pip install -r requirements.txt
 #### *There are four folders:*
 
   **1.Data folder:** 
-  that includes 2 datasets: OncologyTT datasets, and the baseline method's datasets
+  > that includes 2 datasets: OncologyTT datasets, and the baseline method's datasets
   
   **2.Code folder:**
   > more files and details will be added...
      
   **3.EMBED folder:**
-  that has several files per cancer type for the generated Amino-acid sequences embeddings using ProTrans BERT embeddings
-  For more detials: https://docs.bioembeddings.com/v0.1.6/api/bio_embeddings.embed.html
+  > that has several files per cancer type for the generated Amino-acid sequences embeddings using ProTrans BERT embeddings
+  > For more detials:
+  > https://github.com/sacdallago/bio_embeddings
   
   **4.Results' Figures:** 
-
+  
 
 -----------------------------------------------
 ### For Citation:
