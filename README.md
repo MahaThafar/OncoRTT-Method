@@ -2,10 +2,31 @@
 ### OncoDT: Deep learning Method to Predict Oncology-related Therapeutic Targets using BERT Embeddings Integrated with Omics Features
 
 ----------------------------------------------
-#### The Description is as follows:
 
+## Getting Started
 
+### Prerequisites:
 
+There are several required Python packages to run the code.
+These packages can be installed using pip or conda as the follwoing example
+```
+pip install -r requirements.txt
+```
+----
+
+### Files Description:
+#### *There are four folders:*
+
+  **1.Data folder:** 
+  that includes 2 datasets.
+  
+  **2.CODE folder:**
+  
+     
+  **3.EMBED folder:**
+  that has multiple files per cancer type that contains the generated Amino-acid sequences BERT embeddings.
+  
+---
 
 
 ----------------------------------------------
