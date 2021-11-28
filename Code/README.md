@@ -3,10 +3,10 @@
 which consists of four file:
 
 ```
-> 1 OncoDT_All_models_(generated_embed)\
-> 2 OncoDT_ProtTransBert model- ThyroidCancer-demo.py\
-> 3 DNN.py\
-> 4 Omics_feature_extraction_demo.R\
+1. OncoDT_All_models_(generated_embed)
+2. OncoDT_ProtTransBert model- ThyroidCancer-demo.py
+3. DNN.py
+4. Omics_feature_extraction_demo.R
 ```
  
 The description for each file is as follows:
