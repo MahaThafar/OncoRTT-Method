@@ -32,14 +32,15 @@ There are several required r packages and Python packages to run the code.
 - pandas
 
 ### Usage
+To use OncoDT model, please git clone the code and make sure you have the correct directory for the datasets.\
 To successfully run OncoDT model we recomend you to create a virtul environment
 based on required packages collected in requirements.txt.
 ```bash
 conda create --name OncoDT --file requirements.txt
 # Activate your virtual environment:
 source activate OncoDT  #  or 'conda activate OncoDT'
-Then use any python platform, or anaconda jupyter notebook
 ```
+Then use any python platform, or anaconda jupyter notebook.
 
 ----
 
