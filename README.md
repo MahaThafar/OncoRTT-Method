@@ -38,14 +38,14 @@ pip install -r requirements.txt
   **1.Data folder:** that includes 2 datasets:
   > a) OncologyTT datasets, and\
   > b) the baseline method's datasets.\
-  > Description for the datasets are provided in the folder.
+  > Description for the datasets are provided in the Data folder.
   
   **2.Code folder:** that includes 4 files:\
   > 2.1 OncoDT_All_models_(generated_embed)\
   > 2.2 OncoDT_ProtTransBert model- ThyroidCancer-demo.py\
   > 2.3 DNN.py\
   > 2.4 Omics_feature_extraction_demo.R\
-  A description for each file is provided in the Code folder.
+  > Description for each file is provided in the Code folder.
      
   **3.EMBED folder:**\
   It has several files per cancer type for the generated Amino-acid sequences embeddings using ProTrans BERT embeddings.\
@@ -55,7 +55,7 @@ pip install -r requirements.txt
   > https://github.com/sacdallago/bio_embeddings
   
   **4.Results' Figures:** 
-  
+  Figure of the results when using Omics FV, Embedings FV, and Integrated FV in terms of AUC.
 
 -----------------------------------------------
 ### For Citation:
