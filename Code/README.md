@@ -18,7 +18,7 @@ The description for each file is as follows:
 ### 2. OncoDT_ProtTransBert model- ThyroidCancer-demo.py: 
 > A demo for how we generate BERT embeddings is provided for thyroid cancer, the generated embeddings for per cancer type are saved in BERT-EMBED folder
 
-### 3. Omics_feature_extraction_demo.R 
+### 3. [Omics_feature_extraction_demo.R](https://github.com/MahaThafar/OncoDT-Method/blob/main/Code/Omics_feature_extraction_demo.R) 
 > A demo for how we extract Ominc features is provided for breast cancer. The code of the breast cancer project and the sampels barcodes are provided from TCGA GDC portal.
 
 ### 4. DNN.py
