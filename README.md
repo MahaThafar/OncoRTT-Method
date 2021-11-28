@@ -19,9 +19,9 @@ Link:
 
 ### Requirements
 OncoDT implemented using:
-- Model run on linux machines
+- Linux machines
 - Anaconda Jupyternotebook
-- Python 3.8
+- Python version 3.8
 - R version 4.1.1
 
 There are several required r packages and Python packages to run the code.
