@@ -54,7 +54,7 @@ pip install -r requirements.txt
   > For [`bio_embeddings`](https://github.com/sacdallago/bio_embeddings) package, how to use it, and how to generate Bert embeddings:\
   > https://github.com/sacdallago/bio_embeddings
   
-  **4.Results' Figures:** 
+  **4.Results' Figures:**\
   Figure of the results when using Omics FV, Embedings FV, and Integrated FV in terms of AUC.
 
 -----------------------------------------------
