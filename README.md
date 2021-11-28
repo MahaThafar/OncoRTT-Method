@@ -11,10 +11,8 @@ Link:
 
 ## Getting Started
 
-
 ### OncoDT Workflow
 > Late-stage drug development failures are usually a consequence of ineffective targets. Thus, proper target identification is needed, which may be possible using computational approaches. In this work, we developed OncoDT, a deep learning (DL)-based method for predicting novel therapeutic targets. OncoDT is designed to reduce suboptimal target selection by identifying novel targets based on features of known effective targets using DL approaches.
-
 
 
 ### Requirements
@@ -33,10 +31,16 @@ There are several required r packages and Python packages to run the code.
 - bio-embeddings
 - pandas
 
-These packages can be installed using pip or conda as the follwoing example:
+### Usage
+To successfully run OncoDT model we recomend you to create a virtul environment
+based on required packages collected in requirements.txt.
+```bash
+conda create --name OncoDT --file requirements.txt
+# Activate your virtual environment:
+source activate OncoDT  #  or 'conda activate OncoDT'
+Then use any python platform, or anaconda jupyter notebook
 ```
-pip install -r requirements.txt
-```
+
 ----
 
 ### Description:
