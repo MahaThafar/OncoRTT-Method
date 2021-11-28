@@ -3,7 +3,7 @@ numpy
 numba
 Scikit-learn
 pandas
-bio-embeddings 0.0.2
+bio-embeddings
 biopython
 bioservices
 keras
