@@ -16,7 +16,7 @@ Link:
 
 
 ### Requirements:
-OncoDT implemented using:
+OncoDT is implemented using:
 - Linux machines
 - Anaconda Jupyternotebook
 - Python version 3.8
