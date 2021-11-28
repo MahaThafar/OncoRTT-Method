@@ -17,16 +17,23 @@ Link:
 
 
 
-### Prerequisites:
+### Requirements
+OncoDT implemented using:
+- Model run on linux machines
+- Anaconda Jupyternotebook
+- Python 3.8
+- R version 4.1.1
 
-There are several required Python packages to run the code such as:
+There are several required r packages and Python packages to run the code.
+> Example of python packages:
 - numpy
 - Scikit-learn
 - keras
 - tensorflow
 - bio-embeddings
 - pandas
-These packages can be installed using pip or conda as the follwoing example
+
+These packages can be installed using pip or conda as the follwoing example:
 ```
 pip install -r requirements.txt
 ```
