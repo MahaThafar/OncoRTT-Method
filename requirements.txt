@@ -1,7 +1,10 @@
 gensim
 numpy
+numba
 Scikit-learn
 pandas
-bio-embeddings
+bio-embeddings 0.0.2
+biopython
+bioservices
 keras
 tensorflow
