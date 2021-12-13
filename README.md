@@ -56,12 +56,12 @@ Then use any python platform, or anaconda jupyter notebook.
   > b) the baseline method's datasets.\
   > Description for the datasets are provided in the Data folder.
   
-  **2.Code folder:** that includes 4 files:\
+  **2.Code folder:** that includes 4 files:
   > 2.1 OncoDT_All_models_(generated_embed)\
   > 2.2 OncoDT_ProtTransBert model- ThyroidCancer-demo.py\
   > 2.3 DNN.py\
   > 2.4 Omics_feature_extraction_demo.R\
-  > Description for each file is provided in the Code folder.
+  Description for each file is provided in the Code folder.
      
   **3.EMBED folder:**\
   It has several files per cancer type for the generated Amino-acid sequences embeddings using ProTrans BERT embeddings.\
