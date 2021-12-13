@@ -22,7 +22,7 @@ OncoDT is implemented using:
 - Python version 3.8
 - R version 4.1.1
 
-There are several required r packages and Python packages to run the code.
+There are several required R and Python packages to run the code.
 > Example of python packages:
 - numpy
 - Scikit-learn
