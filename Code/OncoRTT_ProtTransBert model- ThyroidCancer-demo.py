@@ -118,5 +118,5 @@ for train_index, test_index in  skf.split(X,Y):
 print("Results using Test data:")
 print("roc_auc = " + str( np.array(roc_auc).mean().round(decimals=4) ))
 
-# In[ ]:
+
 # -------------------- End of the demo code -------------------------
