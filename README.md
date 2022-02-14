@@ -1,5 +1,5 @@
 # OncoRTT-Method
-### OncoRTT: Deep learning Method to Predict Oncology-related Therapeutic Targets using BERT Embeddings Integrated with Omics Features
+### OncoRTT: Deep Learning Method to Predict Oncology-related Therapeutic Targets using BERT Embeddings and Omics Features
 
 ----------------------------------------------
 Submitted: 14 Feb 2022\
@@ -16,7 +16,7 @@ Link:
 
 
 ### Requirements:
-OncoDT is implemented using:
+OncoRTT is implemented using:
 - Linux machines
 - Anaconda Jupyternotebook
 - Python version 3.8
@@ -36,9 +36,9 @@ To use OncoRTT model, please git clone the code and make sure you have the corre
 To successfully run OncoRTT model we recomend you to create a virtul environment
 based on required packages collected in requirements.txt.
 ```bash
-conda create -n OncoDT python=3.8
+conda create -n OncoRTT python=3.8
 # Activate your virtual environment:
-source activate OncoDT  #  or 'conda activate OncoDT'
+source activate OncoRTT  #  or 'conda activate OncoRTT'
 conda install -c conda-forge notebook # so you can luanch jupyter notebook in this env 
 pip install requirements.txt
 jupyter notebook ## open the jupyter notebook with the conda env
