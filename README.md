@@ -49,7 +49,7 @@ Then use any python platform, or anaconda jupyter notebook.
 ----
 
 ### Description:
-#### *There are four folders:*
+#### *There are 3 folders:*
 
   **1.Data folder:** that includes 2 datasets:
   > a) OncologyTT datasets, and\
@@ -70,8 +70,6 @@ Then use any python platform, or anaconda jupyter notebook.
   > For [`bio_embeddings`](https://github.com/sacdallago/bio_embeddings) package, how to use it, and how to generate Bert embeddings:
   > https://github.com/sacdallago/bio_embeddings
   
-  **4.Results' Figures:**\
-  Figure of the results when using Omics FV, Embedings FV, and Integrated FV in terms of AUC.
 
 -----------------------------------------------
 ### For Citation:
