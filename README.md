@@ -1,5 +1,5 @@
 # OncoRTT-Method
-### OncoDT: Deep learning Method to Predict Oncology-related Therapeutic Targets using BERT Embeddings Integrated with Omics Features
+### OncoRTT: Deep learning Method to Predict Oncology-related Therapeutic Targets using BERT Embeddings Integrated with Omics Features
 
 ----------------------------------------------
 Submitted: 24 November 2021\
@@ -12,7 +12,7 @@ Link:
 ## Getting Started
 
 ### OncoRTT Workflow:
-> Late-stage drug development failures are usually a consequence of ineffective targets. Thus, proper target identification is needed, which may be possible using computational approaches. In this work, we developed OncoDT, a deep learning (DL)-based method for predicting novel therapeutic targets. OncoDT is designed to reduce suboptimal target selection by identifying novel targets based on features of known effective targets using DL approaches.
+> Late-stage drug development failures are usually a consequence of ineffective targets. Thus, proper target identification is needed, which may be possible using computational approaches. In this work, we developed OncoRTT, a deep learning (DL)-based method for predicting novel therapeutic targets. OncoRTT is designed to reduce suboptimal target selection by identifying novel targets based on features of known effective targets using DL approaches.
 
 
 ### Requirements:
@@ -32,8 +32,8 @@ There are several required R and Python packages to run the code.
 - pandas
 
 ### Usage:
-To use OncoDT model, please git clone the code and make sure you have the correct directory for the code and the datasets.\
-To successfully run OncoDT model we recomend you to create a virtul environment
+To use OncoRTT model, please git clone the code and make sure you have the correct directory for the code and the datasets.\
+To successfully run OncoRTT model we recomend you to create a virtul environment
 based on required packages collected in requirements.txt.
 ```bash
 conda create -n OncoDT python=3.8
@@ -57,8 +57,8 @@ Then use any python platform, or anaconda jupyter notebook.
   > Description for the datasets are provided in the Data folder.
   
   **2.Code folder:** that includes 4 files:
-  > 2.1 OncoDT_All_models_(generated_embed)\
-  > 2.2 OncoDT_ProtTransBert model- ThyroidCancer-demo.py\
+  > 2.1 OncoRTT_All_models_(generated_embed)\
+  > 2.2 OncoRTT_ProtTransBert model- ThyroidCancer-demo.py\
   > 2.3 DNN.py\
   > 2.4 Omics_feature_extraction_demo.R\
   Description for each file is provided in the Code folder.
