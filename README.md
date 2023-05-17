@@ -2,10 +2,10 @@
 ### OncoRTT: Deep Learning Method to Predict Oncology-related Therapeutic Targets using BERT Embeddings and Omics Features
 
 ----------------------------------------------
-Submitted: 14 Feb 2022\
-Accepted:\
-Published:\
-Link:
+RECEIVED 07 January 2023
+ACCEPTED 24 March 2023
+PUBLISHED 06 April 2023
+Link: https://www.frontiersin.org/articles/10.3389/fgene.2023.1139626/full
 
 --------------------------------------
 
