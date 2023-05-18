@@ -73,7 +73,14 @@ Then use any python platform, or anaconda jupyter notebook.
 
 -----------------------------------------------
 ### For Citation:
-TBD
+Thafar MA, Albaradei S, Uludag M,
+Alshahrani M, Gojobori T, Essack M and
+Gao X (2023), OncoRTT: Predicting novel
+oncology-related therapeutic targets
+using BERT embeddings and
+omics features.
+Front. Genet. 14:1139626.
+doi: 10.3389/fgene.2023.1139626
 
 --------------------------------------------------------------------
 ### For any qutions please contact the first author:
